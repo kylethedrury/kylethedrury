@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kylethedrury" alt="kylethedrury" /></a> </p>
 
-- 🔭 I’m currently working on **high energy string theory experiments with Dr. Gingrich with the ATLAS team at CERN. I am also assisting in efforts with the TUCAN collaberation at TRIUMF in Vancouver, Canada.**
+- 🔭 Last year I contributed to **high energy string theory MC simulations with Dr. Gingrich and the ATLAS team at CERN. I am also assisting in efforts with the TRIUMF Ultracold Advacned Neutron Source (TUCAN) collaboration at TRIUMF in Vancouver, Canada.**
 
-- 🌱 I’m currently learning about **Shell scripting**
+- 🌱 I’m currently learning about **machine learning**
 
-- 👯 I’m looking for more opportunities **to broaden the scope of my programming knowledge and deepen my knowledge of particle physics research**
+- 👯 I’m looking for more opportunities **to broaden the scope of my programming knowledge and deepen my understanding of particle physics research**
 
 - 👨‍💻 All of my projects are available at [https://drive.google.com/drive/folders/1OxLKPKZ8n2rltY7Au0LfE1waAwfJTemh?usp=sharing](https://drive.google.com/drive/folders/1OxLKPKZ8n2rltY7Au0LfE1waAwfJTemh?usp=sharing)
 
