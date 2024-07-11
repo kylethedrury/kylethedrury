@@ -1,11 +1,11 @@
 <h1 align="center">Hi there, I'm Kyle!</h1>
-<h3 align="center">Year III Honors Physics, NSERC 2023 Award Recipient</h3>
+<h3 align="center">Year IV Honors Physics, NSERC 2023 Award Recipient</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kylethedrury&label=Profile%20views&color=0e75b6&style=flat" alt="kylethedrury" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kylethedrury" alt="kylethedrury" /></a> </p>
 
-- 🔭 Last year I contributed to **high energy string theory MC simulations with Dr. Gingrich and the ATLAS team at CERN. I am also assisting in efforts with the TRIUMF Ultracold Advacned Neutron Source (TUCAN) collaboration at TRIUMF in Vancouver, Canada.**
+- 🔭 Last year I contributed to **high energy string theory MC simulations with Dr. Gingrich and the ATLAS team at CERN. I am also assisting in efforts with the TRIUMF Ultracold Advanced Neutron Source (TUCAN) collaboration at TRIUMF in Vancouver, Canada.**
 
 - 🌱 I’m currently learning about **machine learning**
 
