@@ -1,19 +1,19 @@
 <h1 align="center">Hi there, I'm Kyle!</h1>
-<h3 align="center">Year IV Honors Physics, NSERC 2023 Award Recipient</h3>
+<h3 align="center">Year V Honors Physics, NSERC USRA Recipient</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kylethedrury&label=Profile%20views&color=0e75b6&style=flat" alt="kylethedrury" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kylethedrury" alt="kylethedrury" /></a> </p>
 
-- 🔭 Last year I contributed to **high energy string theory MC simulations with Dr. Gingrich and the ATLAS team at CERN. I am also assisting in efforts with the TRIUMF Ultracold Advanced Neutron Source (TUCAN) collaboration at TRIUMF in Vancouver, Canada.**
+- 🔭 From May - Dec 2023, I contributed to **high energy string theory MC simulations with Dr. Gingrich and the ATLAS team at CERN. I've been on the McMaster Satellite Team since September 2023, and was the Attitude Determination and Control Systems Team Lead from Jan 2024 until Mar 2025, when I was promoted to Mission Manager. Since Jan 2024, I have also been working with the TRIUMF Ultracold Advanced Neutron collaboration on ultracold neutron source development.**
 
-- 🌱 I’m currently learning about **machine learning**
+- 🌱 I’m currently learning about **STM32 Programming**
 
-- 👯 I’m looking for more opportunities **to broaden the scope of my programming knowledge and deepen my understanding of particle physics research**
+- 👯 I’m looking for more opportunities in **particle physics research**
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/drive/folders/1OxLKPKZ8n2rltY7Au0LfE1waAwfJTemh?usp=sharing](https://drive.google.com/drive/folders/1OxLKPKZ8n2rltY7Au0LfE1waAwfJTemh?usp=sharing)
+- 👨‍💻 Check out my work on my [ResearchGate profile](https://www.researchgate.net/profile/Kyle-Drury/publications)
 
-- 💬 Ask me about **Python, C++, String Theory & Ultracold Neutron Physics**
+- 💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/kyle-m-drury/)
 
 - 📫 How to reach me **druryk5@mcmaster.ca || +1 (416) 624-5347**
 
