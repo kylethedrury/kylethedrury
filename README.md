@@ -11,7 +11,7 @@
 
 - 👯 I’m looking for more opportunities in **particle physics research**
 
-- 👨‍💻 Check out my work on my **[ResearchGate profile](https://www.researchgate.net/profile/Kyle-Drury/publications)**
+- 👨‍💻 Check out my work on my **[ResearchGate profile](https://www.researchgate.net/profile/Kyle-Drury?ev=prf_overview)**
 
 - 💬 Connect with me on **[LinkedIn](https://www.linkedin.com/in/kyle-m-drury/)**
 
