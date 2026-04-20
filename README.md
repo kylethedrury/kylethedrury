@@ -14,8 +14,8 @@ Physics | Quantum Information | Space Systems | Monte Carlo Simulation
 ## 🔭 Research & Experience
 
 - 🧊 **TRIUMF — Ultracold Advanced Neutron (TUCAN) Collaboration**
-  - Monte Carlo modeling of UCN source performance (C++, Python)
-  - Simulation pipelines, thermophysical modeling (HEPAK), and data visualization
+  - Monte Carlo modelling of UCN source performance (C++, Python)
+  - Simulation pipelines, thermophysical modelling (HEPAK), and data visualization
   - Detector calibration and experimental system development
 
 - 🛰️ **Mission Manager — McMaster Interdisciplinary Satellite Team (MIST)**
@@ -35,7 +35,7 @@ Physics | Quantum Information | Space Systems | Monte Carlo Simulation
 
 ## 📄 Publications & Work
 
-- Ultracold neutron source performance modeling (Thesis, 2025)
+- Ultracold neutron source performance modelling (Thesis, 2025)
 - PRESET CubeSat mission (International Aerospace Congress)
 - Neutron EDM experiment (TRIUMF collaboration)
 - String resonance simulations in photon-jet scattering
