@@ -13,21 +13,22 @@ Physics | Quantum Information | Space Systems | Monte Carlo Simulation
 
 ## 🔭 Research & Experience
 
-- 🧊 **TRIUMF — Ultracold Advanced Neutron (TUCAN) Collaboration**
+- 🧊 **TRIUMF — Ultracold Advanced Neutron (TUCAN) Collaboration (Jan 2024 - Present)**
   - Monte Carlo modelling of UCN source performance (C++, Python)
   - Simulation pipelines, thermophysical modelling (HEPAK), and data visualization
   - Detector calibration and experimental system development
 
-- 🛰️ **Mission Manager — McMaster Interdisciplinary Satellite Team (MIST)**
+- 🛰️ **Mission Manager — McMaster Interdisciplinary Satellite Team (Sept 2023 - Apr 2026)**
   - Leading development of a **3U CubeSat (PRESET)** funded by CSA
   - ADCS design using **magnetic torquers + magnetometer-based estimation**
   - Flight software, embedded systems (STM32), and orbital simulations
+  - Presently acting as Attitude Determination and Control Systems Advisor
 
-- ⚛️ **University of Alberta / ATLAS Collaboration (CERN)**
+- ⚛️ **University of Alberta / ATLAS Collaboration @ CERN (May 2023 - Dec 2023)**
   - Monte Carlo simulations for beyond-Standard-Model physics
   - Event generator debugging and validation using ROOT + Pythia
 
-- 🧪 **SNOLAB**
+- 🧪 **SNOLAB Low-Background Lab (Sept - Dec 2025)**
   - HPGe detector analysis in low-background environments
   - GEANT4 simulations for detector efficiency calibration
 
